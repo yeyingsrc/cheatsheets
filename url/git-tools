@@ -73,6 +73,9 @@ https://github.com/0xthirteen/SharpMove
 https://github.com/0xthirteen/SharpRDP
 Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
 
+https://github.com/0xthirteen/WMI_Proc_Dump
+Dump processes over WMI with MSFT_MTProcess
+
 https://github.com/0xthirteen/reg_snake
 Python tool to interact with WMI StdRegProv
 
@@ -228,6 +231,9 @@ Adversary Emulation Framework
 
 https://github.com/BishopFox/unredacter
 Never ever ever use pixelation as a redaction technique (blurr)
+
+https://github.com/BlWasp/PhantomTask
+A tool to play with scheduled tasks on Windows, in Rust
 
 https://github.com/BlackSnufkin/GhostDriver
 yet another AV killer tool using BYOVD
@@ -584,7 +590,7 @@ https://github.com/HexaCluster/pgdsat
 PostgreSQL Database Security Assessment Tool
 
 https://github.com/HotCakeX/Harden-Windows-Security
-Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels
+Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store
 
 https://github.com/HunnicCyber/SharpSniper
 Find specific users in active directory via their username and logon IP address
@@ -862,9 +868,6 @@ PowerHuntShares is an audit script designed in inventory, analyze, and report ex
 https://github.com/NetSPI/PowerUpSQL
 PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server
 
-https://github.com/NetSPI/Powerhuntshares
-PowerHuntShares is an audit script designed in inventory, analyze, and report excessive privileges configured on Active Directory domains.
-
 https://github.com/Nettitude/PoshC2
 A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
 
@@ -915,6 +918,9 @@ Modified hostapd to facilitate AP impersonation attacks
 
 https://github.com/Orange-Cyberdefense/wmi-shell
 WMI Shell project : proof-of-concept of remote access to a Windows machine using only the WMI service.
+
+https://github.com/P0142/LDAP-Bof-Collection
+Collection of many ldap bofs for domain enumeration and privilege escalation. Created for use with the Adaptix C2.
 
 https://github.com/PShlyundin/GPOHunter
 A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities
@@ -1306,6 +1312,9 @@ MSC Dropper is a Python script designed to automate the creation of MSC (Microso
 https://github.com/ZephrFish/AutoHoneyPoC
 AutoPoC Generator HoneyPoC
 
+https://github.com/ZephrFish/OmniProx
+IP Rotation from different providers - Like FireProx but for GCP, Azure, Alibaba and CloudFlare
+
 https://github.com/ZeroMemoryEx/Amsi-Killer
 Lifetime AMSI bypass
 
@@ -1407,6 +1416,9 @@ Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
 
 https://github.com/antonioCoco/SharPyShell
 SharPyShell - tiny and obfuscated ASP.NET webshell for C# web applications
+
+https://github.com/api0cradle/Narrator-dll
+Example code on how to use a custom dll during dll hijack on Narrator.exe as a persistence
 
 https://github.com/api0cradle/RedTeamScripts
 Just some random Red Team Scripts that are useful
@@ -1513,6 +1525,9 @@ Covert Attack Chain and C2 Utilizing Microsoft Teams GIFs
 https://github.com/boostsecurityio/poutine
 poutine is a security scanner that detects misconfigurations and vulnerabilities in the build pipelines of a repository.  It supports parsing CI workflows from GitHub Actions and Gitlab CI/CD.
 
+https://github.com/breakfix/SharpSCOM
+A C# utility for interacting with SCOM
+
 https://github.com/bridgecrewio/checkov
 Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 
@@ -1611,6 +1626,9 @@ PIC lsass dumper using cloned handles
 
 https://github.com/codewhitesec/Lastenzug
 Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level
+
+https://github.com/codewhitesec/NewRemotingTricks
+New exploitation tricks for hardened .NET Remoting servers
 
 https://github.com/codewhitesec/dsm
 This repository contains some proof of concept exploits targeting Ivanti Desktop and Server Management (DSM).
@@ -2395,6 +2413,9 @@ PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN 
 https://github.com/leftp/DPAPISnoop
 A C# tool to output crackable DPAPI hashes from user MasterKeys
 
+https://github.com/leftp/RegPersist
+a BOF implementation of various registry persistence methods
+
 https://github.com/lem0nSec/ShellGhost
 A memory-based evasion technique which makes shellcode invisible from process start to end.
 
@@ -2821,6 +2842,9 @@ A system administration or post-exploitation script to automatically extract the
 https://github.com/p0dalirius/FindProcessesWithNamedPipes
 A simple C++ Windows tool to get information about processes exposing named pipes.
 
+https://github.com/p0dalirius/ShareHound
+A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily
+
 https://github.com/p0dalirius/pyLAPS
 Python setter/getter for property ms-Mcs-AdmPwd used by LAPS.
 
@@ -3045,6 +3069,9 @@ Dump lsass using only Native APIs by hand-crafting Minidump files (without Minid
 
 https://github.com/ricardojoserf/NativeDump/tree/crystal-flavour
 Dump lsass using only NTAPI functions by hand-crafting Minidump files (without MiniDumpWriteDump!!!)
+
+https://github.com/ricardojoserf/SAMDump
+Extract SAM and SYSTEM using Volume Shadow Copy (VSS) API. With multiple exfiltration options and XOR obfuscation 
 
 https://github.com/ricardojoserf/SharpSelfDelete
 PoC to self-delete a binary in C#
@@ -3613,6 +3640,9 @@ DPAPI looting remotely in Python
 https://github.com/zer0condition/ReverseKit
 x64 Dynamic Reverse Engineering Toolkit
 
+https://github.com/zero2504/Fairy-Law
+Fairy Law - Compromise or disable EDR security solutions
+
 https://github.com/zeronetworks/BloodHound-Tools
 Collection of tools that reflect the network dimension into Bloodhound's data
 
@@ -3624,6 +3654,9 @@ a tool used to analyze and monitor in named pipes
 
 https://github.com/zh54321/GraphPreConsentExplorer
 A comprehensive list of usable Entra ID first-party clients with pre-consented Microsoft Graph scopes, in a simple YAML-file explorable with a simple HTML GUI.
+
+https://github.com/ziggy42/epsilon
+A WASM virtual machine written in Go with 0 dependencies
 
 https://github.com/zsh-users/zsh-autosuggestions 
 Fish-like autosuggestions for zsh

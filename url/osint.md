@@ -7,6 +7,7 @@
 * https://archive.is ; #osint #archive #webscraping
 * https://archive.org/web ; #osint #archive #webscraping
 * https://avatarapi.com ; #osint #email #image #user-profile
+* https://beaconbeagle.com : #osint #cobaltstrike #malware
 * https://bevigil.com ; #osint #buckets #file-search #subdomain #android
 * https://bgp.he.net ; #osint #nameserver #dns-txt #dns #asn
 * https://bgp.tools ; #osint #asn #cidr #ipv4 #whois
@@ -20,6 +21,7 @@
 * https://completedns.com/dns-history ; #osint #nameserver #dns-history
 * https://crt.sh ; #osint #certificate #subdomain #tls #rootdomain
 * https://dehashed.com ; #osint #break #leak #email
+* https://disboard.org/search ; #osint #discord #server
 * https://dnsdumpster.com ; #osint #subdomain #nameserver #dns-txt #portscan 
 * https://dnslytics.com ; #osint #reverse-ip #nameserver #google-adsense #google-analytics #rootdomain
 * https://epieos.com ; #osint #email #phone #user-profile

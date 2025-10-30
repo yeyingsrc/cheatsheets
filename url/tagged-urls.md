@@ -120,6 +120,7 @@
 * https://blog.pulsedive.com/analyzing-darkgate-loaders ; #malware-analyse #threat-intelligence #darkgate
 * https://blog.quarkslab.com/a-story-about-confluence-and-tokens.html ; #confluence #access-token #database #aws #rest-api #atlassian
 * https://blog.quarkslab.com/php-deserialization-attacks-and-a-new-gadget-chain-in-laravel.html ; #php #deserialization #gadged-chain #magic-methods
+* https://blog.randorisec.fr/ms-teams-access-tokens ; #windows #microsoft-teams #cookie #token #cloud #azure
 * https://blog.redteam-pentesting.de/2022/introducing-pretender ; #pretender #responder #ntlm-relaying #dns #dhcpv6 #netbios #llmnr
 * https://blog.redteam-pentesting.de/2024/bitwarden-heist ; #password-dump #password-manager #bitwarden #windows-hello
 * https://blog.redteam-pentesting.de/2025/windows-coercion ; #windows #coercion #service #callback #smb #kerberos #relaying #pretender #responder
@@ -161,6 +162,7 @@
 * https://cicada-8.medium.com/process-injection-is-dead-long-live-ihxhelppaneserver-af8f20431b5d ; #windows #cross-session-activation #com-object #impersonation
 * https://class.malware.re/2020/04/18/android-intro-and-tools.html ; #android #malware-analyse #manifest #apk #jar #java
 * https://cloudbrothers.info/azure-attack-paths ; #cloud #azure #entra #methodology #subscription #delegation #lighthouse #adfs #runbook
+* https://cloudbrothers.info/en/conditional-access-bypasses ; #azure #cloud #conditional-access #bypass #device-registration #microsoft-graph #device-managment #entra #azure
 * https://cloud.google.com/blog/topics/threat-intelligence/windows-session-hijacking-via-ccmexec ; #sccm #ccmexec #session-hijacking #appdomainmanager-injection
 * https://cocomelonc.github.io/malware/2022/08/26/malware-pers-9.html ; #persistence #windows #file-extension
 * https://cocomelonc.github.io/malware/2023/06/07/syscalls-1.html ; #syscall #c++ #dll
@@ -456,6 +458,7 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://print3m.github.io/blog/filejacking-initial-access-with-file-system-api ; #javascript #phishing #file-access #initial-access
 * https://ptr0x1.com/posts/edr-evasion-part-ii-scarecrow ; #edr #bypass #sandbox-evasion
 * https://ptr0x1.com/posts/edr-evasion-part-i-understanding-scarecrow ; #edr #bypass #evasion #shellcode #sideloading #etw #unhooking
+* https://pulsesecurity.co.nz/articles/bypassing-wifi-client-isolation ; #wifi #wpa2 #handshake #pairwise-master-key #pairwise-transient-key
 * https://pulsesecurity.co.nz/articles/OMGCICD-gitlab ; #gitlab #cicd #continuous-integration-continous-deployment #docker-in-docker
 * https://pushsecurity.com/blog/phishing-microsoft-teams-for-initial-access ; #ms-teams #phishing #spoofing #instant-messenger
 * https://pushsecurity.com/blog/samljacking-a-poisoned-tenant ; #saml #samljacking #sso #saas #phishing #nuclino
@@ -563,6 +566,7 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://trufflesecurity.com/blog/trufflehog-commands-git-vs-filesystem ; #trufflehog #git #github #secrets #keys
 * https://trustedsec.com/blog/abusing-chrome-remote-desktop-on-red-team-operations-a-practical-guide ; #remote-desktop #rdp #chrome #msi
 * https://trustedsec.com/blog/a-hitchhackers-guide-to-dacl-based-detections-part-1-a ; #windows #acl #active-directory #gpo
+* https://trustedsec.com/blog/hack-cessibility-when-dll-hijacks-meet-windows-helpers : #windows #persistence #registry #narrator #dll
 * https://trustedsec.com/blog/js-tap-weaponizing-javascript-for-red-teams ; #javascript #xss #web #persistence
 * https://trustedsec.com/blog/kicking-it-old-school-with-time-based-enumeration-in-azure ; #azure #time-based-user-enumeration #autodiscover
 * https://trustedsec.com/blog/oops-i-udld-it-again ; #phishing #ntlm #universal-data-link-configuration #udl
@@ -728,8 +732,10 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://www.synack.com/blog/exploits-explained-5-unusual-authentication-bypass-techniques ; #webapp #refresh-token
 * https://www.synacktiv.com/en/publications/a-dive-into-microsoft-defender-for-identity.html ; #windows #etw #mdi #azure #entra #edr #ldap #kerberos #evasion #bypass
 * https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html ; #cloud #azure #entra #methodology
+* https://www.synacktiv.com/en/publications/dissecting-dcom-part-1 ; #windows #dcom #distributed-component-object-model #unique-class-identifier #registry
 * https://www.synacktiv.com/en/publications/github-actions-exploitation-untrusted-input ; #github-actions #expression-injection #continuous-integration #continuous-delivery #code-injection
 * https://www.synacktiv.com/en/publications/pcapan-a-pcap-analysis-helper.html ; #dfir #forensic #pcab
+* https://www.synacktiv.com/en/publications/site-unseen-enumerating-and-attacking-active-directory-sites ; #windows #active-directory-sites #acl #group-policy-object #bloodhound
 * https://www.synacktiv.com/publications/exploring-android-heap-allocations-in-jemalloc-new ; #android #heap-overflow #allocation
 * https://www.synacktiv.com/publications/gpoddity-exploiting-active-directory-gpos-through-ntlm-relaying-and-more ; #active-directory #gpo #group-policy #sysvol #ntlm-relaying
 * https://www.synacktiv.com/publications/introducing-ntdissector-a-swiss-army-knife-for-your-ntdsdit-files.html ; #active-directory #ntds-dit #dump

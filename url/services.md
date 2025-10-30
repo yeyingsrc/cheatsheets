@@ -31,6 +31,7 @@
 * https://demo.f4map.com
 * https://elevenlabs.io ; #artificia-intelligence #ai #text-to-speech
 * https://emailrep.io
+* https://entrascopes.com ; #cloud #azure #entra #scope #app-id #microsoft #tokens #graph
 * https://evasions.checkpoint.com
 * https://facemorph.me
 * https://filesec.io
