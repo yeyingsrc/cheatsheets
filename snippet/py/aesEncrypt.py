@@ -4,7 +4,6 @@ from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.padding import PKCS7
 from base64 import b64encode
-import os
 
 def aes_encrypt(plain_text, password, salt, iterations):
     kdf = PBKDF2HMAC(

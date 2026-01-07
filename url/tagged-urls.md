@@ -145,6 +145,7 @@
 * https://blog.xpnsec.com/restoring-dyld-memory-loading ; #macosx #dyld-hooking #mocking
 * https://blog.xpnsec.com/unobfuscating-network-access-accounts ; #sccm #windows #active-directory #system-centre-configuration-manager 
 * https://blog.zsec.uk/honeypoc-ultimate ; #honeypot #github #fake-poc #malware
+* https://blog.zsec.uk/lolprox ; #proxmox #lolprox #virtualisation
 * https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw ; #dfir #forensic #windows #etw #logman #manifest #wevtutil #api
 * https://bohops.com/2022/04/02/unmanaged-code-execution-with-net-dynamic-pinvoke ; #shellcode #unmanaged-code-execution #dot-net #pinvoke #csharp
 * https://book.hacktricks.xyz/hardware-physical-access/escaping-from-gui-applications ; #kiosk #breakout #windows #methodology #cheatsheets
@@ -216,6 +217,7 @@
 * https://falconspy.org/posts/2023-10-05-Slack-Impersonation ; #slack #cookie-api-token #ripcord
 * https://fireshellsecurity.team/mining-takeovers-for-fun-and-profit ; #dns-takeover #nameserver #selenium #python #securitytrails
 * https://firexfly.com/quines ; #quine #c
+* https://flatt.tech/research/posts/pwning-claude-code-in-8-different-ways ; #claude-code #ai #regex #linux #bypass #bash
 * https://forensicitguy.github.io/net-downloader-originlogger ; #threat-intelligence #malware-analyse #dot-net #deobfuscation
 * https://forensicitguy.github.io/timelining-malware-vhd-intelligence ; #threat-intelligence #malware-analyse #vhd
 * https://forensicitguy.github.io/vhd-malware-an-excellent-choice ; #threat-intelligence #malware-analyse #vhd
@@ -403,12 +405,14 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://outflank.nl/blog/2023/04/25/so-you-think-you-can-block-macros ; #windows #macros #xll-ghosting-hijack #dll-references #flow-depending-cell-content
 * https://outflank.nl/blog/2023/10/19/listing-remote-named-pipes ; #windows #named-pipes #enumeration #smb
 * https://owasp.org/www-community/attacks ; #webapp #cheatsheets
+* https://owlhacku.com/introduction-to-deserialization-attacks ; #web #deserialization #php #python #dot-net #csharp #java
 * https://palant.info/2022/08/10/anatomy-of-a-basic-extension ; #browser #chrome #extension #manifest
 * https://pentera.io/resources/research/the-lolbas-odyssey-finding-new-lolbas-and-how-you-can-too ; #lolbin #windows #methodology
 * https://pentestbook.six2dez.com/enumeration/cloud/azure ; #cloud #azure #entra #cheatsheets
 * https://pentestlab.blog/2023/11/06/persistence-windows-telemetry ; #windows #persistence #compattelrunner
 * https://pentestlab.blog/2023/11/20/persistence-scheduled-task-tampering ; #windows #schtask #persistence
 * https://pentestlab.blog/2024/01/15/lateral-movement-visual-studio-dte ; #windows #lateral-movement #visual-studio-development-tools-environment
+* https://pentest.party/posts/2025/checkmk ; #lateral-movement #checkmk
 * https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud ; #threat-intelligence #ransomware #cloud #aws
 * https://pgj11.com/posts/Diamond-And-Sapphire-Tickets ; #kerberoast #active-directory #diamond #sapphire #s4u2self
 * https://plessas.net/facebookmatrix ; #osint #facebook
@@ -416,6 +420,7 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://portswigger.net/research/blind-css-exfiltration ; #web #css #blind-html-injection #data-exfiltration #content-security-policy
 * https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work ; #web-timing-attack #tcp #http-header #sqli #json #reverse-proxy
 * https://portswigger.net/research/smashing-the-state-machine ; #web #gitlab #race-conditions #http
+* https://portswigger.net/research/the-fragile-lock ; #web #xml #saml #signature #void-canonicalization-technique #xsw #namespace-confusion
 * https://portswigger.net/web-security/all-materials ; #webapp #wiki #methodology
 * https://posts.inthecyber.com/leveraging-microsoft-teams-for-initial-access-42beb07f12c4?gi=e95fe0fe7c69 ; #ms-teams #phishing #http-post #initial-access #instant-messenger
 * https://posts.specterops.io/abusing-azure-app-service-managed-identity-assignments-c3adefccff95 ; #cloud #azure #entra #app-service #jwt
@@ -744,6 +749,7 @@ https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tok
 * https://www.synacktiv.com/publications/windows-secrets-extraction-a-summary ; #windows #lsass #dpapi #lsa
 * https://www.syss.de/fileadmin/dokumente/Publikationen/Advisories/SYSS-2023-011.txt ; #printer #cve #wifi #password
 * https://www.syss.de/fileadmin/user_upload/2021_04_Angriff_auf_Anti-Phishing-Banner_in_E-Mails.pdf ; #phishing #email
+* https://www.tarlogic.com/blog/abusing-calendar-processing ; #phishing #initial-access #icalendar 
 * https://www.thehacker.recipes/ad/movement/kerberos/forged-tickets/diamond ; #kerberoast #active-directory #diamond #cheatsheets
 * https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html ; #phishing #uri-handler #search-ms #protocol-provider
 * https://www.tripwire.com/state-of-security/ghidra-101-creating-structures-in-ghidra ; #reverse-engineering #ghidra #data-structure

@@ -106,6 +106,7 @@
 /proc/mounts
 /proc/mtrr
 /proc/net/arp
+/proc/net/fib_trie
 /proc/net/tcp
 /proc/net/udp
 /proc/pagetypeinfo

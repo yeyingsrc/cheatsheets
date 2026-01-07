@@ -80,6 +80,7 @@
 * https://github.com/rootsecdev/Azure-Red-Team
 * https://github.com/rvrsh3ll/Azure-App-Tools
 * https://github.com/snowcra5h/windows-api-function-cheatsheets
+* https://github.com/spmedia/Threat-Actor-Usernames-Scrape
 * https://github.com/streaak/keyhacks
 * https://github.com/subat0mik/Misconfiguration-Manager
 * https://github.com/subat0mik/whoamsi

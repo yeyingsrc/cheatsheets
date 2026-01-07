@@ -1,4 +1,4 @@
-"""FUNCTION
+"""
 Some description
 
 var1 = description1

@@ -49,6 +49,9 @@ This repository contains a proof of concept demonstrating the ClickFix attack te
 https://github.com/0xda568/IconJector
 This is a Windows Explorer DLL injection technique that uses the change icon dialog on Windows.
 
+https://github.com/0xedh/dumpguard_bof
+Beacon Object File (BOF) port of DumpGuard for extracting NTLMv1 hashes from sessions on modern Windows systems.
+
 https://github.com/0xjessie21/CVE-2025-24016
 CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE)
 
@@ -162,6 +165,9 @@ Script written in python to perform Resource-Based Constrained Delegation (RBCD)
 
 https://github.com/AmberWolfCyber/NachoVPN
 NachoVPN is a Proof of Concept that demonstrates exploitation of SSL-VPN clients, using a rogue VPN server.
+
+https://github.com/AppOmni-Labs/heisenberg-ssc-health-check
+Analyzes software dependencies across GitHub repositories to identify security vulnerabilities and health risks in your supply chain.
 
 https://github.com/Arcanum-Sec/Scopify
 Scopify is a Python command-line tool designed for penetration testers and bug bounty hunters to quickly gather and analyze infrastructure information (CDN, Hosting, SaaS) for a target company by scraping netify.ai.
@@ -850,6 +856,12 @@ Payload encoding utility to effectively lower payload entropy.
 https://github.com/Ne0nd0g/go-shellcode
 A repository of Windows Shellcode runners and supporting utilities. The applications load and execute Shellcode using various API calls or techniques.
 
+https://github.com/Neo23x0/Loki-RS
+High-performance, multi-threaded YARA & IOC scanner
+
+https://github.com/Neo23x0/signature-base
+YARA signature and IOC database for my scanners and tools
+
 https://github.com/NetSPI/ATEAM
 A Python reconnaissance tool designed to discover Azure services and attribute tenant ownership information based on their responses.
 
@@ -957,6 +969,9 @@ Swiss Army Knife for payload encryption, obfuscation, and conversion to byte arr
 
 https://github.com/Print3M/DllShimmer
 Weaponize DLL hijacking easily. Backdoor any function in any DLL.
+
+https://github.com/Print3M/Google-Hack-Search
+Custom Google search engine dedicated to IT security & hacking stuff. Over 240 high-quality sources.
 
 https://github.com/PwnDexter/Invoke-EDRChecker
 Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services, the registry and running drivers for the presence of known defensive products such as AV's, EDR's and logging tools.
@@ -1138,6 +1153,9 @@ A small tool to convert Base64-encoded .kirbi tickets from Rubeus into .ccache f
 https://github.com/SpecterOps/BloodHound
 Six Degrees of Domain Admin
 
+https://github.com/SpecterOps/ConfigManBearPig
+PowerShell collector for adding SCCM attack paths to BloodHound with OpenGraph
+
 https://github.com/SpecterOps/MSSQLHound
 PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph
 
@@ -1218,6 +1236,9 @@ A Linux persistence tool!
 
 https://github.com/Tw1sm/PySQLRecon
 Offensive MSSQL toolkit written in Python, based off SQLRecon
+
+https://github.com/TwoSevenOneT/EDRStartupHinder
+EDRStartupHinder: A red team tool to prevent Antivirus and EDR from running.
 
 https://github.com/TwoSevenOneT/WSASS
 This is the tool to dump the LSASS process on modern Windows 11
@@ -1546,6 +1567,9 @@ My experiments in weaponizing Nim
 https://github.com/byt3bl33d3r/SprayingToolkit
 Scripts to make password spraying attacks against Lync/S4B, OWA &amp; O365 a lot quicker, less painful and more efficient
 
+https://github.com/bytewreck/DumpGuard
+The tool relies on the Remote Credential Guard protocol, and allows credential dumping even when Credential Guard is enabled on the local host.
+
 https://github.com/c3c/ADExplorerSnapshot.py
 ADExplorerSnapshot.py is an AD Explorer snapshot parser. It is made as an ingestor for BloodHound, and also supports full-object dumping to NDJSON.
 
@@ -1636,6 +1660,9 @@ This repository contains some proof of concept exploits targeting Ivanti Desktop
 https://github.com/codingo/dorky
 A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 
+https://github.com/codyburkard/azol
+A python-based pentesting library for Azure and Entra ID
+
 https://github.com/coffeegist/bofhound
 Generate BloodHound compatible JSON from logs written by ldapsearch BOF, pyldapsearch and Brute Ratel's LDAP Sentinel
 
@@ -1686,6 +1713,9 @@ A container-based framework to enable the integration of mobile components in se
 
 https://github.com/cym13/vbs-reverse-shell
 VBS reverse shell scripts
+
+https://github.com/d0ge/XSW
+XSW Burp Suite Extension automates the process of probing SAML endpoints for Signature Wrapping vulnerabilities.
 
 https://github.com/d3adzo/mesa
 Command and Control that uses NTP as the transport protocol.
@@ -1885,6 +1915,9 @@ Elastic Security detection content for Endpoint
 https://github.com/elastic/silhouette
 Silhouette is a POC that mitigates the use of physical memory to dump credentials from LSASS. It does this in three ways:
 
+https://github.com/elceef/dnstwist
+Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
+
 https://github.com/enferex/pdfresurrect
 Analyze and help extract older "hidden" versions of a pdf from the current pdf.
 
@@ -2047,6 +2080,9 @@ Windows tool for dumping malware PE files from memory back to disk for analysis.
 https://github.com/glmcdona/strings2
 strings2: An improved strings extraction tool.
 
+https://github.com/gommzystudio/device-activity-tracker
+A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
+
 https://github.com/google/osv-scanner
 Vulnerability scanner written in Go which uses the data provided by osv.dev
 
@@ -2193,6 +2229,9 @@ User enumeration with Microsoft Teams API
 
 https://github.com/in9uz/Above
 Sniff-based Network Vulnerability Scanner
+
+https://github.com/ineesdv/Tangled
+Open-source offensive security platform for conducting phishing campaigns that weaponizes iCalendar automatic event processing.
 
 https://github.com/initstring/cloud_enum
 Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
@@ -2422,6 +2461,9 @@ A memory-based evasion technique which makes shellcode invisible from process st
 https://github.com/lexfo/sshimpanzee
 A reverse shell based on sshd supporting DNS and ICMP Tunnelling as well as HTTP and Socks Proxies
 
+https://github.com/lgandx/PCredz
+This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+
 https://github.com/liamg/dismember
 Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
 
@@ -2452,11 +2494,17 @@ SoaPy is a Proof of Concept (PoC) tool for conducting offensive interaction with
 https://github.com/login-securite/DonPAPI
 Dumping DPAPI credz remotely
 
+https://github.com/looCiprian/GC2-sheet
+GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet or Microsoft SharePoint List and exfiltrate files using Google Drive or Microsoft SharePoint Document.
+
 https://github.com/lord-alfred/ipranges
 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft (Azure), Oracle (Cloud), DigitalOcean, GitHub, Facebook (Meta), Twitter and Linode with daily updates.
 
 https://github.com/lsecqt/OffensiveCpp
 This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
+
+https://github.com/lsecqt/SessionView
+A portable C# utility for enumerating local and remote windows sessions
 
 https://github.com/luigigubello/PayloadsAllThePDFs
 A list of crafted malicious PDF files to test the security of PDF readers and tools.
@@ -2505,6 +2553,9 @@ Windows persistence toolkit written in C#.
 
 https://github.com/mandiant/capa
 The FLARE team's open-source tool to identify capabilities in executable files.
+
+https://github.com/mandiant/gostringungarbler
+Python tool to resolve all strings in Go binaries obfuscated by garble
 
 https://github.com/mandiant/xrefer
 XRefer is a Python-based plugin for the IDA Pro disassembler, a tool used for analyzing software. The plugin provides a custom navigation interface within IDA.
@@ -3127,6 +3178,9 @@ Lateral Movement as loggedon User via Speech Named Pipe COM & ISpeechNamedPipe +
 https://github.com/rtrouton/create_macos_vm_install_dmg
 This script prepares macOS installer disk images for use with virtualization software like VMware Fusion or Parallels.
 
+https://github.com/rubenformation/ms-photos_NTLM_Leak
+The Microsoft ms-photos URI scheme takes fileName as parameter, which can be submitted with a UNC path, leaking NTLMv2-SSP hashes one opened.
+
 https://github.com/runZeroInc/sshamble
 SSHamble: Unexpected Exposures in SSH
 
@@ -3606,6 +3660,9 @@ HTTrack Website Copier, copy websites to your computer (Official repository)
 
 https://github.com/xssdoctor/graphqlMaker
 Finds graphql queries in javascript files
+
+https://github.com/xyplex3/RedTeamCoin
+Red Team Coin for crypto-mining operations.
 
 https://github.com/yamakadi/clroxide
 A rust library that allows you to host the CLR and execute dotnet binaries.

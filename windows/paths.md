@@ -90,3 +90,19 @@ C:\Users\<user>\Default\AppData\LocalTemp
 C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
 ```
 
+### Edge preferenes and bookmarks
+```
+C:\Users\<user>\AppData/Local/Microsoft/Edge/User Data/Default/Preferences
+C:\Users\<user>\AppData/Local/Microsoft/Edge/User Data/Default/Bookmarks
+```
+
+### Tokens
+```
+C:\Users\<user>\AppData/Local/Microsoft/TokenBroker/Cache
+```
+
+### DPAPI masterkey
+```
+C:\Users\<user>\AppData\Roaming\Microsoft\Protect\<sid>\<guid>
+```
+

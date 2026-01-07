@@ -1,3 +1,4 @@
+* https://0din.ai/blog/agent-0din : #ai #prompt-injection
 * https://blueteamlabs.online ; #blueteam #forensics #reverse-engineering #threat-hunting
 * https://gandalf.lakera.ai/baseline ; #ai #prompt-injection
 * https://github.com/BishopFox/cloudfoxable ; #cloud #aws #pentest
