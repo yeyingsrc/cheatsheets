@@ -4,6 +4,3 @@ do
     echo ${line}
 done < file.txt
 
-# online
-while read line; do (echo "$line"); done < file.txt
-

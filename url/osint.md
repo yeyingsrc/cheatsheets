@@ -41,6 +41,7 @@
 * https://keyserver.ubuntu.com ; #osint #pgp #email
 * https://labs.tib.eu/geoestimation ; #osint #geolocation #image
 * https://leakix.net ; #osint #subdomain #asn #country #portscan
+* https://lenso.ai ; #osint #ai-reverse-image-search
 * https://micahvandeusen.com/tools/tenant-domains ; #azure #entra #osint #rootdomain #tenant
 * https://netlas.io ; #osint #whois #nameserver #subdomains #certificate #asn
 * https://networksdb.io ; #osint #asn #subdomain #geolocation #whois
@@ -54,6 +55,7 @@
 * https://pastebin.com ; #osint #storage #dumps
 * https://phonebook.cz ; #osint #email #domain
 * https://picarta.ai ; #osint #geolocation #image
+* https://picdetective.com ; #osint #reverse-image-search
 * https://pimeyes.com ; #osint #reverse-image-search #facial-recognition
 * https://predictasearch.com ; #osint #email #user-profile #phone
 * https://psbdmp.ws ; #osint #storage #dumps
@@ -75,6 +77,7 @@
 * https://wigle.net ; #osint #wifi #geolocation #wardriving
 * https://www.crunchbase.com ; #osint #company-registry #acquisition
 * https://www.expireddomains.net ; #osint #dns #domain #auction
+* https://www.faceseek.online ; #osint #image-search #facial-recognition
 * https://www.handelsregister.de ; #osint #company-registry #acquisition
 * https://www.iplocation.net/ip-lookup ; #osint #geolocation #ip
 * https://www.locatefamily.com ; #osint #firstname #lastname

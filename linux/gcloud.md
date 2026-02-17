@@ -38,6 +38,11 @@ gcloud projects list
 gcloud projects describe <projectId>
 ```
 
+### Delete project
+```
+gcloud projects delete <projectId>
+```
+
 ### Get IAM policy of project
 ```
 gcloud projects get-iam-policy <projectId>

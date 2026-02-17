@@ -12,12 +12,14 @@ curl -s "https://login.microsoftonline.com/<tenant>/v2.0/.well-known/openid-conf
 ### Services
 * https://admin.exchange.microsoft.com
 * https://admin.microsoft.com
+* https://admin.teams.microsoft.com
 * https://intune.microsoft.com
 * https://myapps.microsoft.com
 * https://mysignins.microsoft.com/security-info
 * https://outlook.office.com/mail
 * https://portal.azure.com
 * https://rdweb.wvd.microsoft.com/arm/webclient/index.html
+* https://client.wvd.microsoft.com/arm/webclient/index.html
 * https://security.microsoft.com
 * https://teams.microsoft.com
 * https://tenantName-admin.sharepoint.com
