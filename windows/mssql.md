@@ -42,3 +42,8 @@ SELECT is_srvrolemember('sysadmin');
 SELECT is_srvrolemember('serveradmin');
 ```
 
+### Get linked server
+```
+mssql> EXEC sp_linkedservers;
+```
+

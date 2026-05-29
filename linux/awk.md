@@ -23,6 +23,11 @@ awk '{print substr($1,1,2)}'
 awk 'length($1) < 10 { print $1 }'
 ```
 
+### Print lines that appears at least twice in a file
+```
+awk '++count[$0] == 2' <file>
+```
+
 ### Replace ; with :
 ```
 awk -F ";" '{gsub(/;/, ":"); print}'

@@ -104,6 +104,7 @@
 * https://hackingthe.cloud
 * https://hijacklibs.net
 * https://kwcsec.gitbook.io/the-red-team-handbook
+* https://ldapwiki.com ; #active-directory #ldap #wiki #documentation
 * https://loldb.xsec.fr ; #windows #driver
 * https://malapi.io
 * https://persistence-info.github.io

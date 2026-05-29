@@ -85,3 +85,8 @@ aws ec2 describe-key-pairs
 aws ec2 import-key-pair --key-name "<name>" --public-key-material "<sshKey>"
 ```
 
+### Get debian 13 AMI ID
+```
+aws ssm get-parameters-by-path --recursive --path /aws/service/debian/release/13/latest
+```
+

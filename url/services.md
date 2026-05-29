@@ -70,7 +70,6 @@
 * https://phishtank.com
 * https://phishyurl.com ; #phishing #domain #url
 * https://pkg.kali.org
-* https://privacy.sexy
 * https://privacytests.org
 * http://sqlfiddle.com
 * https://ransomwhe.re
@@ -78,11 +77,13 @@
 * https://report.netcraft.com/report
 * https://socradar.io/labs/accountbreach
 * https://strontic.github.io/xcyclopedia ; #windows #forensic #dfir #executable
+* https://thispersonnotexist.org ; #ai #image #fake-persona
 * https://urlfiltering.paloaltonetworks.com
 * https://uuid.pirate-server.com ; #windows #globally-unique-identifier #guid #uuid
 * https://vim-adventures.com ; #vim #game
 * https://whale-alert.io ; #bitcoin #tracking #wallet
 * https://windows96.net ; #windows #os-simluator
+* https://wormhole.app #fileshare #file-transfer
 * https://wtfbins.wtf ; #threat-hunting #binary-suspicious behavior
 * https://www.browserling.com ; #online-browser #phishing-analyse
 * https://www.capsolver.com ; #captcha-solving

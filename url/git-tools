@@ -58,6 +58,9 @@ This is a Windows Explorer DLL injection technique that uses the change icon dia
 https://github.com/0xedh/dumpguard_bof
 Beacon Object File (BOF) port of DumpGuard for extracting NTLMv1 hashes from sessions on modern Windows systems.
 
+https://github.com/0xjbb/cet-spoofing-detection
+Stack spoofing Detection for CET processes by comparing shadow and user stacks.
+
 https://github.com/0xjessie21/CVE-2025-24016
 CVE-2025-24016: Wazuh Unsafe Deserialization Remote Code Execution (RCE)
 
@@ -99,6 +102,9 @@ A collection of powershell scripts for administration of Office 365
 
 https://github.com/1njected/CMLoot
 Find interesting files stored on (System Center) Configuration Manager (SCCM/CM) SMB shares
+
+https://github.com/1r0BIT/WinSSHound
+Windows SSH Misconfiguration Discovery Tool — Map lateral movement paths through misconfigured SSH services in Active Directory environments.
 
 https://github.com/3v4Si0N/HTTP-revshell
 Powershell reverse shell using HTTP/S protocol with AMSI bypass and Proxy Aware
@@ -157,6 +163,9 @@ Privilege Escalation Project - Windows / Linux / Mac
 https://github.com/AlessandroZ/LaZagne
 Credentials recovery project
 
+https://github.com/AlexLinov/Edge-Dumper
+BOF for extracting Edge credentials from the main browser process.
+
 https://github.com/AlmondOffSec/DCOMRunAs
 Lateral movement with DCOM DLL hijacking
 
@@ -186,6 +195,9 @@ SessionGopher is a PowerShell tool that uses WMI to extract saved session inform
 
 https://github.com/Ascotbe/Kernelhub
 Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file (提权漏洞合集)
+
+https://github.com/Atsika/MalGitApp
+A simple OAuth App designed to capture OAuth tokens when users authenticate through GitHub OAuth flow.
 
 https://github.com/AykutSarac/jsoncrack.com
 Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -562,6 +574,9 @@ Checks for signature requirements over LDAP
 https://github.com/GoSecure/pywsus
 Standalone implementation of a part of the WSUS spec. Built for offensive security purposes.
 
+https://github.com/GoToolSharing/vbkview
+vbkview is a tool designed to browse and extract data from unencrypted Veeam backups.
+
 https://github.com/GossiTheDog/HiveNightmare
 Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 
@@ -688,6 +703,9 @@ Apply a divide and conquer approach to bypass EDRs
 https://github.com/LMGsec/o365creeper
 Python script that performs email address validation against Office 365 without submitting login attempts.
 
+https://github.com/LOLBAS-Project/LOLBAS
+Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
+
 https://github.com/LOTTunnels/LOTTunnels.github.io
 Living Off The Tunnels a.k.a LOTTS Project is community driven project to document digital tunnels which can be abused by threat actors as well by insiders for data exfiltrations, persistence, shell access etc.
 
@@ -723,6 +741,9 @@ gubble is a tool designed to audit Google Workspace group settings. It analyzes 
 
 https://github.com/LuemmelSec/Pentest-Tools-Collection
 Active Directory Tool Collection. Convert .net exe into powershell script.
+
+https://github.com/LuemmelSec/Threat-Intel-Nom-Nom
+A threat intelligence monitoring tool that aggregates security feeds and generates alerts based on custom keywords.
 
 https://github.com/LuemmelSec/ntlmrelayx.py_to_exe
 While trying to convert a current version of impackets ntlmrelayx.py to an exe with pyinstaller, I stumbled upon a shitload of problems.
@@ -1144,9 +1165,6 @@ Timeroasting scripts by Tom Tervoort
 https://github.com/SecureAuthCorp/impacket
 Impacket is a collection of Python classes for working with network protocols.
 
-https://github.com/SecurityRiskAdvisors/letitgo
-Enumerate and check domains for Azure tenants
-
 https://github.com/Shac0x/Wonka
 Wonka is a sweet Windows tool that extracts Kerberos tickets from the Local Security Authority (LSA) cache. Like finding a ticket, but for security research and penetration testing!
 
@@ -1155,6 +1173,9 @@ CVE-2021-28482
 
 https://github.com/ShawnDEvans/smbmap
 SMBMap is a handy SMB enumeration tool
+
+https://github.com/ShigShag/AMSI-Bypass-via-Page-Guard-Exceptions
+Shellcode and In-PowerShell solution for patching AMSI via Page Guard Exceptions
 
 https://github.com/ShorSec/DavRelayUp
 DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
@@ -1237,6 +1258,9 @@ A command and control framework written in rust.
 https://github.com/Teach2Breach/snapinject_rs
 A process injection using process snapshotting based on https://gitlab.com/ORCA000/snaploader , in rust.
 
+https://github.com/ThatTotallyRealMyth/Impacket-IoCs
+A public reference of protocol-level and implementation-level indicators of compromise(IoCs) for detecting Impacket-driven activity.
+
 https://github.com/The-Viper-One/PsMapExec
 A PowerShell tool that takes strong inspiration from CrackMapExec.
 
@@ -1272,6 +1296,9 @@ A Linux persistence tool!
 
 https://github.com/Tw1sm/PySQLRecon
 Offensive MSSQL toolkit written in Python, based off SQLRecon
+
+https://github.com/TwoSevenOneT/EDRChoker
+A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.
 
 https://github.com/TwoSevenOneT/EDRStartupHinder
 EDRStartupHinder: A red team tool to prevent Antivirus and EDR from running.
@@ -1311,6 +1338,9 @@ PoC for MS-DFSNM coerce authentication using NetrDfsRemoveStdRoot and NetrDfsAdd
 
 https://github.com/Wh1t3Rh1n0/SlackEnum
 A user enumeration tool for Slack.
+
+https://github.com/Whispergate/Erebus
+Erebus is an Initial Access wrapper for the Mythic Command & Control Server. It converts existing Mythic shellcode into payloads specifically used for phishing and IA operations.
 
 https://github.com/Whitecat18/Rust-for-Malware-Development
 Rust for malware Development is a repository for advanced Red Team techniques and offensive malwares & Ransomwares, focused on Rust 🦀
@@ -1927,8 +1957,14 @@ Orchestrate detonating your MalDev in VMs with different EDRs to see their detec
 https://github.com/dobin/detonatorAgent
 Detonate malware on VMs and get logs & detection status
 
+https://github.com/dobin/rededr
+Collect Windows telemetry for Maldev
+
 https://github.com/dobin/ttpExtractor
 Uses LLM to extract TTP's from CTI report PDFs. With focus on the P (Procedures). As in, what the threat actors were actually doing.
+
+https://github.com/donlon/cloudflare-error-page
+This project creates customized error pages that mimic the well-known Cloudflare error page. You can also embed it into your own website.
 
 https://github.com/dotnet/Kerberos.NET
 A Kerberos implementation built entirely in managed code.
@@ -2443,6 +2479,9 @@ Wordlist, rules and masks from Kaonashi project (RootedCON 2019)
 https://github.com/karendm/ADHunt
 Tool for enumerating Active Directory environments
 
+https://github.com/kernelstub/Ferrum
+Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration.
+
 https://github.com/kevin-mizu/domloggerpp
 A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 
@@ -2470,6 +2509,9 @@ Parses USB connection artifacts from offline Registry hives
 https://github.com/kiber-io/apkd
 APK downloader from few sources
 
+https://github.com/kimd155/ghostlock
+SMB deny-share handle research tool. Lock files on an enterprise share with zero writes, zero encryption, and zero alerts in any behavioral defense. Standard user. One API call. No CVE.
+
 https://github.com/kiwids0220/deviceCode2WinHello
 A small script that automates Entra ID persistence with Windows Hello For Business key
 
@@ -2484,6 +2526,9 @@ A technique of hiding malicious shellcode via Shannon encoding.
 
 https://github.com/kleiton0x00/contexter
 Contexter - A secondary context path traversal / server-side parameter pollution testing tool written in Python 3
+
+https://github.com/klezVirus/BYOUD
+BYOUD is a framework for x64 stack spoofing on Windows. It tackles a complete opposite approach from classic stack spoofing, manipulating unwind metadata to hide arbitrary chunks of the call chain in debuggers and EDRs.
 
 https://github.com/klezVirus/CandyPotato
 Pure C++, weaponized, fully automated implementation of RottenPotatoNG
@@ -2851,8 +2896,14 @@ A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Res
 https://github.com/netero1010/GhostTask
 Create scheduled tasks using registry manipulations and bypass event logs such as 4698 "Scheduled task created"
 
+https://github.com/netero1010/SCCMVNC
+A tool to modify SCCM remote control settings on the client machine, enabling remote control without permission prompts or notifications. This can be done without requiring access to SCCM server.
+
 https://github.com/nettitude/Aladdin
 Aladdin is a payload generation technique based on the work of James Forshaw (@tiraniddo) that allows the deseriallization of a .NET payload and execution in memory.
+
+https://github.com/nettitude/CLR-Stomp
+A Beacon Object File (BOF) that loads a .NET assembly into a Cobalt Strike or compatible beacon via CLR module stomping. The payload PE is written into a victim GAC assembly's file-backed mapping so that ETW reports a legitimate on-disk path.
 
 https://github.com/nettitude/RunPE
 C# Reflective loader for unmanaged binaries.
@@ -3082,6 +3133,9 @@ A lightweight redirector for Google Cloud Run, enabling domain fronting via Goog
 https://github.com/praetorian-inc/noseyparker
 Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 
+https://github.com/praetorian-inc/titus
+High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.
+
 https://github.com/praetorian-inc/turnt
 A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.
 
@@ -3265,6 +3319,9 @@ Hascat deploy and install script in aws
 https://github.com/rootcathacking/catspin
 Catspin rotates the IP address of HTTP requests making IP based blocks or slowdown measures ineffective. It is based on AWS API Gateway and deployed via AWS Cloudformation.
 
+https://github.com/rootsecdev/relay_bible
+Technical Reference to multiple relay techniques 
+
 https://github.com/ropbear/CLMBypass
 Bypass Constrained Language Mode in PowerShell
 
@@ -3391,6 +3448,9 @@ SquarePhish is an advanced phishing tool that uses a technique combining the OAu
 https://github.com/seekr-osint/seekr
 A multi-purpose OSINT toolkit with a neat web-interface.
 
+https://github.com/senderend/azureBlob
+A Mythic C2 Profile that uses Azure Blob Storage for command and control communication with per-agent container isolation.
+
 https://github.com/sensepost/depscanner
 Detect public repository dependencies in the GitHub repositories with an orphan required library.
 
@@ -3469,6 +3529,9 @@ User Enumeration of Microsoft Teams users via API
 https://github.com/sshuttle/sshuttle
 Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 
+https://github.com/ssteelfactor-oss/Kestrel
+Passive Active Directory security enumeration via native ADSI/COM interfaces.
+
 https://github.com/stamparm/maltrail
 Malicious traffic detection system
 
@@ -3505,6 +3568,9 @@ Hardware/IOT Pentesting Wiki
 https://github.com/synacktiv/AADOutsider-py
 Python3 rewrite of AsOutsider features of AADInternals
 
+https://github.com/synacktiv/DCOMIllusionist
+DCOM in memory and fileless lateral movement techniques through .Net deserilization
+
 https://github.com/synacktiv/DLHell
 Local & remote Windows DLL Proxying
 
@@ -3522,6 +3588,9 @@ Ntdissector is a tool for parsing records of an NTDS database. Records are dumpe
 
 https://github.com/synacktiv/pcapan
 A pcap capture analysis helper
+
+https://github.com/synacktiv/thats_no_pipe
+This project aims at intercepting IPC communications by hooking specific WinAPI functions and forwarding them to an HTTP proxy using a websocket.
 
 https://github.com/t-tani/defender2yara
 Convert Microsoft Defender Antivirus Signatures (VDM) into YARA rules
@@ -3612,6 +3681,9 @@ This repo contains a massive amount (8000+) of WordPress related Nuclei template
 
 https://github.com/tr3ss/newclei
 A Go tool that gets the newest PRs from projectdiscovery/nuclei-templates.
+
+https://github.com/trailofbits/skills
+Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
 https://github.com/trickster0/EDR_Detector
 EDR Detector that can find what kind of endpoint solution is being used according to drivers in the system.

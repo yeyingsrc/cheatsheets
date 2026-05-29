@@ -34,7 +34,7 @@ cat <userFile>.json | jq '.data[].Properties.distinguishedname
 
 ### Print attributes of bloodhound user
 ```
-cat <userFile>.json | jq '.data[].Properties | select(.name | ascii_downcase == "<name>")'
+cat <userFile>.json | jq '.data[].Properties | select(.name | ascii_downcase == "name")'
 ```
 
 ### Print server computer objects from ADExplorerSnapshot.py
